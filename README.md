@@ -1,4 +1,3 @@
-# jademazera.github.io
 # Portfolio de Jade MAZERA
 
 ### Objectifs : 
